@@ -1,5 +1,5 @@
 # SpaceWreck
-![Project Image](https://cdn4.vectorstock.com/i/1000x1000/42/38/space-rocket-cartoon-vector-1934238.jpg)
+![Project Image](https://www.dropbox.com/s/utqgrydzn8b2q2d/rocket.png?dl=0)
 **Version 1.0.0**
 Saving Captain Rocket and Lieutenant Lucky
 
