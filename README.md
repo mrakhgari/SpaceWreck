@@ -1,5 +1,5 @@
 # SpaceWreck
-<!-- ![Project Image](https://www.dropbox.com/s/utqgrydzn8b2q2d/rocket.png?dl=0) -->
+![Project Image](https://www.dropbox.com/s/utqgrydzn8b2q2d/rocket.jpg?dl=0)
 **Version 1.0.0**
 ### Table of Contents
 - [Description](#description)
@@ -19,7 +19,7 @@ bfs algorithm can determine wheter the maze has a solution or not.
 ## Code Preliminaries
 
 ### Runing
-    Python Main.py
+    Python Main.py <file_path>
 
 ### Dependencies
 - matplotlib
