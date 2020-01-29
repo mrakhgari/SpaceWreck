@@ -1,5 +1,5 @@
 # SpaceWreck
-![Project Image](https://www.dropbox.com/s/utqgrydzn8b2q2d/rocket.jpg?dl=0)
+![Project Image](https://www.dropbox.com/s/v7caxhkeervn8sb/rocket.jpg?dl=0)
 **Version 1.0.0**
 ### Table of Contents
 - [Description](#description)
@@ -25,6 +25,8 @@ bfs algorithm can determine wheter the maze has a solution or not.
 - matplotlib
 - networkx
 
+
+
 ---
 ## Contributors
 
@@ -32,4 +34,4 @@ bfs algorithm can determine wheter the maze has a solution or not.
 
 ---
 ## License & copyright
-© MuhammadReza Akhgari, Computer Eng @ Amirkabir university of technology
+© MuhammadReza Akhgari, Computer Eng. @ Amirkabir university of technology
