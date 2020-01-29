@@ -1,5 +1,5 @@
 # SpaceWreck
-![Project Image](https://www.dropbox.com/s/v7caxhkeervn8sb/rocket.jpg?dl=0)
+![Project Image](https://www.dropbox.com/s/9obpy7x5n3nw99y/rocket.png?dl=0)
 **Version 1.0.0**
 ### Table of Contents
 - [Description](#description)
